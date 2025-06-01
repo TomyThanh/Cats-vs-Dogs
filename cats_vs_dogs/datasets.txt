@@ -1,0 +1,4 @@
+#Datasets
+
+All datasets used in this project are hosted on Kaggle and can be accessed via the provided links in each project folder.
+https://www.kaggle.com/tomy00

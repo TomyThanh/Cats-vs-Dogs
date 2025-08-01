@@ -45,7 +45,7 @@ Image classification is a foundational task in computer vision. This project is 
 
 | Cat 🐱 | Dog 🐶 |
 |:------:|:------:|
-| ![Cat example](https://placekitten.com/200/200) | ![Dog example](https://placedog.net/200/200) |
+| ![Cat example](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg) | ![Dog example](https://placedog.net/200/200) |
 
 ---
 
